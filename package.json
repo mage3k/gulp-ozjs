@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kebot/gulp-ozjs.git"
+    "url": "git://github.com/mage3k/gulp-ozjs.git"
   },
   "keywords": [
     "gulpplugin",
@@ -19,13 +19,13 @@
   "author": "kebot",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kebot/gulp-ozjs/issues"
+    "url": "https://github.com/mage3k/gulp-ozjs/issues"
   },
-  "homepage": "https://github.com/kebot/gulp-ozjs",
+  "homepage": "https://github.com/mage3k/gulp-ozjs",
   "dependencies": {
     "gulp-util": "^3.0.1",
     "ozjs": "^2.6.4",
-    "ozma": "^1.9.2",
+    "ozma": "git://github.com:mage3k/ozma.js.git",
     "through2": "^0.6.1"
   }
 }
